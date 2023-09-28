@@ -8,9 +8,9 @@ aiofiles==0.6.0
     # via platformio
 ajsonrpc==1.1.0
     # via platformio
-bottle==0.12.19
+bottle==0.12.20
     # via platformio
-certifi==2020.12.5
+certifi==2023.7.22
     # via requests
 chardet==4.0.0
     # via requests
@@ -30,17 +30,17 @@ ifaddr==0.1.7
     # via zeroconf
 marshmallow==3.11.1
     # via platformio
-platformio==5.1.1
+platformio==6.1.7
     # via -r requirements.in
 pyelftools==0.27
     # via platformio
 pyserial==3.5
     # via platformio
-requests==2.25.1
+requests==2.31.0
     # via platformio
 semantic-version==2.8.5
     # via platformio
-starlette==0.14.2
+starlette==0.27.0
     # via platformio
 tabulate==0.8.9
     # via platformio
