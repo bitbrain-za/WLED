@@ -52,3 +52,4 @@ wsproto==1.0.0
     # via platformio
 zeroconf==0.28.8
     # via platformio
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
