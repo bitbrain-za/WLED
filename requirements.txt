@@ -40,7 +40,7 @@ requests==2.31.0
     # via platformio
 semantic-version==2.8.5
     # via platformio
-starlette==0.27.0
+starlette==0.40.0
     # via platformio
 tabulate==0.8.9
     # via platformio
