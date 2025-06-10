@@ -20,7 +20,7 @@ click==7.1.2
     #   uvicorn
 colorama==0.4.4
     # via platformio
-h11==0.12.0
+h11==0.16.0
     # via
     #   uvicorn
     #   wsproto
@@ -36,7 +36,7 @@ pyelftools==0.27
     # via platformio
 pyserial==3.5
     # via platformio
-requests==2.31.0
+requests==2.32.4
     # via platformio
 semantic-version==2.8.5
     # via platformio
